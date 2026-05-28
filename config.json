@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvalidate",
+        "uuid": 30344302,
+        "checksum": "ss3gp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
